@@ -1373,3 +1373,814 @@ LogInit: Object subsystem initialized
 [2018.06.17-10.54.10:543][ 41]LogExit: GameNetDriver None shut down
 [2018.06.17-10.54.10:543][ 41]LogExit: GameNetDriver None shut down
 [2018.06.17-10.54.10:543][ 41]LogExit: GameNetDriver None shut down
+[2018.06.17-10.59.04:694][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-11.04.15:406][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.020
+[2018.06.17-11.04.15:408][857]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/components/player/BP_weaponManager] ([1] browsable assets)...
+[2018.06.17-11.04.15:408][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/components/player/BP_weaponManager]
+[2018.06.17-11.04.15:416][857]LogSavePackage: Save=4.22ms
+[2018.06.17-11.04.15:416][857]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager_Auto2F61B54DD44EE8B64DD5D219B40D9BB88.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto2.uasset'
+[2018.06.17-11.04.15:417][857]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto2.uasset
+[2018.06.17-11.04.15:417][857]LogFileHelpers: Auto-saving content packages took 0.010
+[2018.06.17-11.05.15:338][518]LogSavePackage: Save=4.28ms
+[2018.06.17-11.05.15:338][518]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager9D15F0C94DB067A7C2842F8141A43BC3.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.05.15:339][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.05.15:755][567]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.05.16:853][690]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.05.16:855][690]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.05.28:675][ 87]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.06.17-11.05.28:698][ 88]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.17-11.05.28:698][ 88]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.17-11.05.28:698][ 88]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.17-11.05.28:754][ 89]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.06.17-11.05.28:780][ 90]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.06.17-11.05.28:802][ 91]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.06.17-11.05.30:128][106]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.06.17-11.05.30:245][107]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.06.17-11.05.30:293][108]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.06.17-11.05.31:249][108]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.06.17-11.05.31:575][110]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.06.17-11.05.32:121][111]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.06.17-11.05.32:361][113]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.06.17-11.05.33:378][114]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.06.17-11.05.33:439][115]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.17-11.05.33:652][116]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.17-11.05.34:532][120]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.06.17-11.05.34:815][122]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.17-11.05.35:699][128]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.17-11.05.35:714][129]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.17-11.05.36:051][130]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.17-11.06.09:884][176]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.06.17-11.06.33:269][859]LogMetaData: Removing '/Game/data/Enums/E_WeaponType.E_WeaponType' ref from Metadata '/Game/data/Enums/NewUserDefinedEnum.PackageMetaData'
+[2018.06.17-11.06.33:284][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/data/Enums/E_WeaponType" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset" SILENT=true
+[2018.06.17-11.06.33:287][859]LogSavePackage: Save=1.39ms
+[2018.06.17-11.06.33:287][859]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/E_WeaponType2D8A46414414F7641E88658668C91300.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset'
+[2018.06.17-11.06.33:288][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset
+[2018.06.17-11.07.46:606][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/data/Enums/E_WeaponType" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset" SILENT=true
+[2018.06.17-11.07.46:612][746]LogSavePackage: Save=1.07ms
+[2018.06.17-11.07.46:612][746]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/E_WeaponTypeD329C22746FDA651A5B4A7BFF83E14E2.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset'
+[2018.06.17-11.07.46:613][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset
+[2018.06.17-11.07.47:849][894]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.07.47:851][894]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.08.09:893][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/data/Enums/E_WeaponType" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset" SILENT=true
+[2018.06.17-11.08.09:898][356]LogSavePackage: Save=0.98ms
+[2018.06.17-11.08.09:898][356]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/E_WeaponType7B388A044082FD7A4C31CC87253346D7.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset'
+[2018.06.17-11.08.09:899][356]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset
+[2018.06.17-11.08.11:111][498]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.08.11:113][498]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.09.23:548][635]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.17-11.12.05:568][430]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a34c71e80, Size=4, Default__SKEL_BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.SKEL_BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.12.07:009][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a34c71e80, Size=4
+[2018.06.17-11.12.07:009][597]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229ff1782f8, Size=4, Default__SKEL_BP_weaponManager_C Function /Engine/Transient.REINST_SKEL_BP_weaponManager_C_107:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.12.07:010][597]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229ff1786d8, Size=4, Default__SKEL_BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.SKEL_BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.12.12:564][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229ff1786d8, Size=4
+[2018.06.17-11.12.12:564][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a34fa4518, Size=4, Default__SKEL_BP_weaponManager_C Function /Engine/Transient.REINST_SKEL_BP_weaponManager_C_109:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.12.12:565][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a34fa5588, Size=4, Default__SKEL_BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.SKEL_BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.14.42:346][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a34fa4518, Size=4
+[2018.06.17-11.14.42:346][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229ff1782f8, Size=4
+[2018.06.17-11.14.42:348][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
+[2018.06.17-11.14.42:350][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/components/player/BP_weaponManager] ([1] browsable assets)...
+[2018.06.17-11.14.42:350][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/components/player/BP_weaponManager]
+[2018.06.17-11.14.42:361][501]LogSavePackage: Save=7.01ms
+[2018.06.17-11.14.42:361][501]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager_Auto3CCCC26ED43987DFF72A0939A9AEBBE8B.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto3.uasset'
+[2018.06.17-11.14.42:362][501]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto3.uasset
+[2018.06.17-11.14.42:362][501]LogFileHelpers: Auto-saving content packages took 0.014
+[2018.06.17-11.16.00:648][278]LogSavePackage: Save=7.24ms
+[2018.06.17-11.16.00:648][278]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager3284E2EB4411BC4D2C00C58D0C678375.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.16.00:650][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.16.01:474][376]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.16.01:477][376]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a34fa5588, Size=4
+[2018.06.17-11.16.01:477][376]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229adcae4d8, Size=4, Default__SKEL_BP_weaponManager_C Function /Engine/Transient.REINST_SKEL_BP_weaponManager_C_111:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.16.01:482][376]LogBlueprint: Error: [Compiler BP_weaponManager] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.06.17-11.16.01:483][376]LogBlueprint: Error: [Compiler BP_weaponManager] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.06.17-11.16.01:483][376]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a34b9ea00, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.16.01:500][376]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229adcae4d8, Size=4
+[2018.06.17-11.16.01:505][376]LogBlueprint: Warning: [Compiler BP_weaponManager] [3987,92] Compile of BP_weaponManager failed. 2 Fatal Issue(s) 0 Warning(s) [in 30 ms] (/Game/blueprints/components/player/BP_weaponManager.BP_weaponManager)
+[2018.06.17-11.16.29:084][610]LogSavePackage: Save=8.40ms
+[2018.06.17-11.16.29:084][610]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManagerAE5D06EC474A53D0F4F45794137125A2.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.16.29:085][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.16.30:899][825]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.16.30:901][825]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.16.43:487][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a0cd365b8, Size=4, Default__SKEL_BP_playerCharacter_C Function /Game/blueprints/player/BP_playerCharacter.SKEL_BP_playerCharacter_C:ExecuteUbergraph_BP_playerCharacter
+[2018.06.17-11.17.57:001][134]LogSavePackage: Save=24.46ms
+[2018.06.17-11.17.57:001][134]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_playerCharacter2A663CDB4DB970E22B24E0913030C200.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/player/BP_playerCharacter.uasset'
+[2018.06.17-11.17.57:003][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/player/BP_playerCharacter.uasset
+[2018.06.17-11.17.57:480][182]BlueprintLog: New page: Compile BP_playerCharacter
+[2018.06.17-11.17.57:484][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a0cd365b8, Size=4
+[2018.06.17-11.17.57:484][182]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a0cd365b8, Size=4, Default__SKEL_BP_playerCharacter_C Function /Engine/Transient.REINST_SKEL_BP_playerCharacter_C_118:ExecuteUbergraph_BP_playerCharacter
+[2018.06.17-11.17.57:489][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229bcc75990, Size=44
+[2018.06.17-11.17.57:489][182]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a358d4760, Size=44, Default__BP_playerCharacter_C Function /Engine/Transient.REINST_BP_playerCharacter_C_121:ExecuteUbergraph_BP_playerCharacter
+[2018.06.17-11.17.57:491][182]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a358d4370, Size=44, Default__BP_playerCharacter_C Function /Game/blueprints/player/BP_playerCharacter.BP_playerCharacter_C:ExecuteUbergraph_BP_playerCharacter
+[2018.06.17-11.17.57:780][182]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a0cd365b8, Size=4
+[2018.06.17-11.17.58:862][292]LogSlate: Window 'BP_playerCharacter' being destroyed
+[2018.06.17-11.17.58:864][292]LogSlate: Window 'BP_playerCharacter' being destroyed
+[2018.06.17-11.24.24:618][938]LogSavePackage: Save=9.39ms
+[2018.06.17-11.24.24:618][938]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager5B1780174EC4AE31B0842F84D8D1ADD4.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.24.24:619][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.24.25:421][ 29]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.24.25:428][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a34b9ea00, Size=32
+[2018.06.17-11.24.25:428][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a34d3f860, Size=32, Default__BP_weaponManager_C Function /Engine/Transient.REINST_BP_weaponManager_C_125:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.24.25:429][ 29]LogBlueprint: Error: [Compiler BP_weaponManager] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.06.17-11.24.25:429][ 29]LogBlueprint: Error: [Compiler BP_weaponManager] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.06.17-11.24.25:429][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a34d3eb80, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.24.25:550][ 29]LogBlueprint: Warning: [Compiler BP_weaponManager] [4491,97] Compile of BP_weaponManager failed. 2 Fatal Issue(s) 0 Warning(s) [in 128 ms] (/Game/blueprints/components/player/BP_weaponManager.BP_weaponManager)
+[2018.06.17-11.25.56:427][852]LogSavePackage: Save=9.39ms
+[2018.06.17-11.25.56:427][852]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager9D46B91B49355222DD73089819E5C134.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.25.56:428][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.27.06:062][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.018
+[2018.06.17-11.27.06:064][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/components/player/BP_weaponManager] ([1] browsable assets)...
+[2018.06.17-11.27.06:064][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/components/player/BP_weaponManager]
+[2018.06.17-11.27.06:078][872]LogSavePackage: Save=10.59ms
+[2018.06.17-11.27.06:078][872]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager_Auto41B6B0F504BB3F349631B5FBF6139C909.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto4.uasset'
+[2018.06.17-11.27.06:079][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto4.uasset
+[2018.06.17-11.27.06:079][872]LogFileHelpers: Auto-saving content packages took 0.017
+[2018.06.17-11.27.15:606][503]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.27.15:612][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a34d3eb80, Size=32
+[2018.06.17-11.27.15:612][503]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a4752e200, Size=32, BP_weaponManager_C_1 Function /Engine/Transient.REINST_BP_weaponManager_C_129:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.27.15:614][503]LogBlueprint: Error: [Compiler BP_weaponManager] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.06.17-11.27.15:614][503]LogBlueprint: Error: [Compiler BP_weaponManager] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.06.17-11.27.15:614][503]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a4752f060, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.27.15:727][503]LogBlueprint: Warning: [Compiler BP_weaponManager] [4662,14] Compile of BP_weaponManager failed. 2 Fatal Issue(s) 0 Warning(s) [in 121 ms] (/Game/blueprints/components/player/BP_weaponManager.BP_weaponManager)
+[2018.06.17-11.27.17:166][671]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.17-11.27.17:182][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.27.17:182][671]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.17-11.27.17:183][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022997e1d428, Size=4
+[2018.06.17-11.27.17:183][671]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229cd3ad258, Size=4, SKEL_PROTO_BP_AnimBlueprint_0_C_0 Function /Engine/Transient.REINST_SKEL_PROTO_BP_AnimBlueprint_0_C_2:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.17-11.27.17:183][671]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2018.06.17-11.27.17:184][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022997e1d420, Size=4
+[2018.06.17-11.27.17:184][671]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229cd3acfb8, Size=4, PROTO_BP_AnimBlueprint_0_C_0 Function /Engine/Transient.REINST_PROTO_BP_AnimBlueprint_0_C_3:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.17-11.27.17:185][671]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229cd3ac468, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.17-11.27.17:203][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229cd3ad258, Size=4
+[2018.06.17-11.27.17:203][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229cd3acfb8, Size=4
+[2018.06.17-11.27.17:203][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a4752e200, Size=32
+[2018.06.17-11.27.17:203][671]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2018.06.17-11.27.22:499][671]LogSlate: Window 'Message' being destroyed
+[2018.06.17-11.27.22:502][671]PIE: New page: PIE session: Minimal_Default (18 июня 2018 г., 1:27:22)
+[2018.06.17-11.27.22:502][671]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default
+[2018.06.17-11.27.22:505][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002699s)
+[2018.06.17-11.27.22:506][671]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-11.27.22:506][671]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.06.17-11.27.22:506][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default (0.003529s)
+[2018.06.17-11.27.22:524][671]LogLoad: Game class is 'BP_baseGameMode_C'
+[2018.06.17-11.27.22:526][671]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-18.27.22
+[2018.06.17-11.27.22:526][671]LogWorld: Bringing up level for play took: 0.000806
+[2018.06.17-11.27.22:526][671]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.22:526][671]LogTemp: Display: ParseSettings for IpNetDriver_21
+[2018.06.17-11.27.22:526][671]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.22:526][671]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.06.17-11.27.22:526][671]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.22:526][671]LogNet: GameNetDriver IpNetDriver_21 IpNetDriver listening on port 17777
+[2018.06.17-11.27.22:527][671]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default 0,688
+[2018.06.17-11.27.22:531][671]PIE: New page: PIE session: Minimal_Default (18 июня 2018 г., 1:27:22)
+[2018.06.17-11.27.22:535][671]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-11.27.22:539][671]LogInit: FAudioDevice initialized.
+[2018.06.17-11.27.22:575][671]LogNet: Browse: 127.0.0.1:17777//Game/StarterContent/Maps/Minimal_Default
+[2018.06.17-11.27.22:576][671]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.22:576][671]LogTemp: Display: ParseSettings for IpNetDriver_22
+[2018.06.17-11.27.22:576][671]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.17-11.27.22:576][671]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.17-11.27.22:576][671]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.22:576][671]LogNet: Game client on port 17777, rate 10000
+[2018.06.17-11.27.22:576][671]PIE: Play in editor start time for /Game/StarterContent/Maps/Minimal_Default 0,738
+[2018.06.17-11.27.22:581][671]PIE: New page: PIE session: Minimal_Default (18 июня 2018 г., 1:27:22)
+[2018.06.17-11.27.22:590][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-11.27.22:635][671]LogNet: Browse: 127.0.0.1:17777//Game/StarterContent/Maps/Minimal_Default
+[2018.06.17-11.27.22:635][671]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.22:635][671]LogTemp: Display: ParseSettings for IpNetDriver_23
+[2018.06.17-11.27.22:635][671]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.17-11.27.22:635][671]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.17-11.27.22:636][671]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.22:636][671]LogNet: Game client on port 17777, rate 10000
+[2018.06.17-11.27.22:640][671]PIE: Play in editor start time for /Game/StarterContent/Maps/Minimal_Default 0,802
+[2018.06.17-11.27.22:652][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.27.22:652][671]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62327
+[2018.06.17-11.27.22:652][671]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 210208019119113154197191103086025118171147154140096085124238
+[2018.06.17-11.27.22:652][671]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62328
+[2018.06.17-11.27.22:652][671]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 014193132099096072248124187020076045118091175063013048224093
+[2018.06.17-11.27.22:653][671]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 210208019119113154197191103086025118171147154140096085124238
+[2018.06.17-11.27.22:654][671]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 014193132099096072248124187020076045118091175063013048224093
+[2018.06.17-11.27.22:739][672]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.55, Realtime: 0.09. IpNetDriver_21
+[2018.06.17-11.27.22:739][672]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62327
+[2018.06.17-11.27.22:739][672]LogHandshake: SendChallengeAck. InCookie: 210208019119113154197191103086025118171147154140096085124238
+[2018.06.17-11.27.22:739][672]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62327
+[2018.06.17-11.27.22:739][672]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.22:739][672]LogNet: NotifyAcceptedConnection: Name: Minimal_Default, TimeStamp: 06/17/18 18:27:22, [UNetConnection] RemoteAddr: 127.0.0.1:62327, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.22:739][672]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62327, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.22:739][672]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62328
+[2018.06.17-11.27.22:740][672]LogHandshake: SendChallengeAck. InCookie: 014193132099096072248124187020076045118091175063013048224093
+[2018.06.17-11.27.22:740][672]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62328
+[2018.06.17-11.27.22:740][672]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.22:740][672]LogNet: NotifyAcceptedConnection: Name: Minimal_Default, TimeStamp: 06/17/18 18:27:22, [UNetConnection] RemoteAddr: 127.0.0.1:62328, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.22:740][672]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62328, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.22:740][672]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.55, Realtime: 0.09. IpNetDriver_22
+[2018.06.17-11.27.22:740][672]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: PendingNetDriver IpNetDriver_22, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.22:740][672]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.55, Realtime: 0.09. IpNetDriver_23
+[2018.06.17-11.27.22:740][672]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: PendingNetDriver IpNetDriver_23, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.22:751][673]LogNet: NotifyAcceptingChannel Control 0 server World /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default: Accepted
+[2018.06.17-11.27.22:751][673]LogNet: Remote platform little endian=1
+[2018.06.17-11.27.22:751][673]LogNet: This platform little endian=1
+[2018.06.17-11.27.22:751][673]LogNet: NotifyAcceptingChannel Control 0 server World /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default: Accepted
+[2018.06.17-11.27.22:751][673]LogNet: Remote platform little endian=1
+[2018.06.17-11.27.22:751][673]LogNet: This platform little endian=1
+[2018.06.17-11.27.22:760][674]LogNet: Login request: /Game/StarterContent/Maps/Minimal_Default userId: Invalid
+[2018.06.17-11.27.22:760][674]LogNet: Login request: /Game/StarterContent/Maps/Minimal_Default userId: Invalid
+[2018.06.17-11.27.22:760][674]LogNet: Welcomed by server (Level: /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default, Game: /Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C)
+[2018.06.17-11.27.22:773][674]LogLoad: LoadMap: 127.0.0.1:17777//Game/StarterContent/Maps/UEDPIE_1_Minimal_Default?game=/Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C
+[2018.06.17-11.27.22:796][674]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-11.27.22:796][674]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.22:798][674]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_2_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-18.27.22
+[2018.06.17-11.27.22:798][674]LogWorld: Bringing up level for play took: 0.000623
+[2018.06.17-11.27.22:798][674]LogLoad: Took 0.025172 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_1_Minimal_Default)
+[2018.06.17-11.27.22:799][674]LogNet: Welcomed by server (Level: /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default, Game: /Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C)
+[2018.06.17-11.27.22:810][674]LogLoad: LoadMap: 127.0.0.1:17777//Game/StarterContent/Maps/UEDPIE_1_Minimal_Default?game=/Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C
+[2018.06.17-11.27.22:831][674]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-11.27.22:831][674]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.22:833][674]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_3_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-18.27.22
+[2018.06.17-11.27.22:833][674]LogWorld: Bringing up level for play took: 0.000832
+[2018.06.17-11.27.22:833][674]LogLoad: Took 0.023289 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_1_Minimal_Default)
+[2018.06.17-11.27.22:844][675]LogNet: Client netspeed is 10000
+[2018.06.17-11.27.22:844][675]LogNet: Join request: /Game/StarterContent/Maps/Minimal_Default?SplitscreenCount=1
+[2018.06.17-11.27.22:846][675]LogNet: Join succeeded: 270
+[2018.06.17-11.27.22:846][675]LogNet: Client netspeed is 10000
+[2018.06.17-11.27.22:846][675]LogNet: Join request: /Game/StarterContent/Maps/Minimal_Default?SplitscreenCount=1
+[2018.06.17-11.27.22:848][675]LogNet: Join succeeded: 271
+[2018.06.17-11.27.25:682][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.27.25:695][939]LogSlate: Window 'firstshooter Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.17-11.27.25:753][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.27.25:770][939]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62328, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.06.17-11.27.25:770][939]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62328, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID, Channels: 10, Time: 2018.06.17-11.27.25
+[2018.06.17-11.27.25:770][939]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62328, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: None, Owner: None, UniqueId: INVALID
+[2018.06.17-11.27.25:770][939]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62327, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.27.25:770][939]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62327, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID, Channels: 10, Time: 2018.06.17-11.27.25
+[2018.06.17-11.27.25:770][939]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62327, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_21, IsServer: YES, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.27.25:770][939]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.27.25:770][939]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID, Channels: 11, Time: 2018.06.17-11.27.25
+[2018.06.17-11.27.25:770][939]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.27.25:771][939]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_22, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.06.17-11.27.25:771][939]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_22, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID, Channels: 10, Time: 2018.06.17-11.27.25
+[2018.06.17-11.27.25:771][939]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_22, IsServer: NO, PC: None, Owner: None, UniqueId: INVALID
+[2018.06.17-11.27.25:773][939]LogExit: GameNetDriver None shut down
+[2018.06.17-11.27.25:773][939]LogExit: GameNetDriver None shut down
+[2018.06.17-11.27.25:774][939]LogExit: GameNetDriver None shut down
+[2018.06.17-11.27.28:039][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-11.27.28:141][216]LogSlate: Window 'BP_weaponManager*' being destroyed
+[2018.06.17-11.27.28:143][216]LogSlate: Window 'BP_weaponManager*' being destroyed
+[2018.06.17-11.27.29:532][376]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.17-11.27.29:545][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.27.29:545][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-11.27.29:545][376]PIE: New page: PIE session: Minimal_Default (18 июня 2018 г., 1:27:29)
+[2018.06.17-11.27.29:545][376]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default
+[2018.06.17-11.27.29:548][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002342s)
+[2018.06.17-11.27.29:548][376]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-11.27.29:548][376]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2018.06.17-11.27.29:548][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default (0.002985s)
+[2018.06.17-11.27.29:566][376]LogLoad: Game class is 'BP_baseGameMode_C'
+[2018.06.17-11.27.29:568][376]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-18.27.29
+[2018.06.17-11.27.29:568][376]LogWorld: Bringing up level for play took: 0.000737
+[2018.06.17-11.27.29:568][376]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.29:568][376]LogTemp: Display: ParseSettings for IpNetDriver_24
+[2018.06.17-11.27.29:568][376]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.29:568][376]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.06.17-11.27.29:568][376]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.29:569][376]LogNet: GameNetDriver IpNetDriver_24 IpNetDriver listening on port 17777
+[2018.06.17-11.27.29:569][376]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default -0,27
+[2018.06.17-11.27.29:574][376]PIE: New page: PIE session: Minimal_Default (18 июня 2018 г., 1:27:29)
+[2018.06.17-11.27.29:577][376]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-11.27.29:580][376]LogInit: FAudioDevice initialized.
+[2018.06.17-11.27.29:614][376]LogNet: Browse: 127.0.0.1:17777//Game/StarterContent/Maps/Minimal_Default
+[2018.06.17-11.27.29:614][376]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.29:614][376]LogTemp: Display: ParseSettings for IpNetDriver_25
+[2018.06.17-11.27.29:614][376]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.17-11.27.29:614][376]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.17-11.27.29:614][376]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.29:614][376]LogNet: Game client on port 17777, rate 10000
+[2018.06.17-11.27.29:614][376]PIE: Play in editor start time for /Game/StarterContent/Maps/Minimal_Default -0,224
+[2018.06.17-11.27.29:619][376]PIE: New page: PIE session: Minimal_Default (18 июня 2018 г., 1:27:29)
+[2018.06.17-11.27.29:628][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-11.27.29:673][376]LogNet: Browse: 127.0.0.1:17777//Game/StarterContent/Maps/Minimal_Default
+[2018.06.17-11.27.29:673][376]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.29:673][376]LogTemp: Display: ParseSettings for IpNetDriver_26
+[2018.06.17-11.27.29:673][376]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.17-11.27.29:673][376]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.17-11.27.29:673][376]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.29:673][376]LogNet: Game client on port 17777, rate 10000
+[2018.06.17-11.27.29:676][376]PIE: Play in editor start time for /Game/StarterContent/Maps/Minimal_Default -0,162
+[2018.06.17-11.27.29:688][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.27.29:688][376]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62335
+[2018.06.17-11.27.29:688][376]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 051002036214080252245010021174147042136159095012201052076056
+[2018.06.17-11.27.29:688][376]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62336
+[2018.06.17-11.27.29:688][376]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 013180170108145125230208035031158048068158015251062091010200
+[2018.06.17-11.27.29:689][376]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 051002036214080252245010021174147042136159095012201052076056
+[2018.06.17-11.27.29:690][376]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 013180170108145125230208035031158048068158015251062091010200
+[2018.06.17-11.27.29:748][377]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62335
+[2018.06.17-11.27.29:748][377]LogHandshake: SendChallengeAck. InCookie: 051002036214080252245010021174147042136159095012201052076056
+[2018.06.17-11.27.29:748][377]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62335
+[2018.06.17-11.27.29:748][377]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.29:748][377]LogNet: NotifyAcceptedConnection: Name: Minimal_Default, TimeStamp: 06/17/18 18:27:29, [UNetConnection] RemoteAddr: 127.0.0.1:62335, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.29:748][377]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62335, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.29:748][377]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62336
+[2018.06.17-11.27.29:748][377]LogHandshake: SendChallengeAck. InCookie: 013180170108145125230208035031158048068158015251062091010200
+[2018.06.17-11.27.29:748][377]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62336
+[2018.06.17-11.27.29:748][377]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.17-11.27.29:748][377]LogNet: NotifyAcceptedConnection: Name: Minimal_Default, TimeStamp: 06/17/18 18:27:29, [UNetConnection] RemoteAddr: 127.0.0.1:62336, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.29:749][377]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62336, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.29:749][377]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: PendingNetDriver IpNetDriver_25, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.29:749][377]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: PendingNetDriver IpNetDriver_26, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.17-11.27.29:755][378]LogNet: NotifyAcceptingChannel Control 0 server World /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default: Accepted
+[2018.06.17-11.27.29:755][378]LogNet: Remote platform little endian=1
+[2018.06.17-11.27.29:755][378]LogNet: This platform little endian=1
+[2018.06.17-11.27.29:756][378]LogNet: NotifyAcceptingChannel Control 0 server World /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default.Minimal_Default: Accepted
+[2018.06.17-11.27.29:756][378]LogNet: Remote platform little endian=1
+[2018.06.17-11.27.29:756][378]LogNet: This platform little endian=1
+[2018.06.17-11.27.29:763][379]LogNet: Login request: /Game/StarterContent/Maps/Minimal_Default userId: Invalid
+[2018.06.17-11.27.29:763][379]LogNet: Login request: /Game/StarterContent/Maps/Minimal_Default userId: Invalid
+[2018.06.17-11.27.29:763][379]LogNet: Welcomed by server (Level: /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default, Game: /Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C)
+[2018.06.17-11.27.29:764][379]LogLoad: LoadMap: 127.0.0.1:17777//Game/StarterContent/Maps/UEDPIE_1_Minimal_Default?game=/Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C
+[2018.06.17-11.27.29:785][379]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-11.27.29:785][379]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.29:786][379]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_2_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-18.27.29
+[2018.06.17-11.27.29:786][379]LogWorld: Bringing up level for play took: 0.000681
+[2018.06.17-11.27.29:787][379]LogLoad: Took 0.022945 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_1_Minimal_Default)
+[2018.06.17-11.27.29:787][379]LogNet: Welcomed by server (Level: /Game/StarterContent/Maps/UEDPIE_1_Minimal_Default, Game: /Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C)
+[2018.06.17-11.27.29:796][379]LogLoad: LoadMap: 127.0.0.1:17777//Game/StarterContent/Maps/UEDPIE_1_Minimal_Default?game=/Game/blueprints/game/BP_baseGameMode.BP_baseGameMode_C
+[2018.06.17-11.27.29:816][379]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-11.27.29:817][379]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.17-11.27.29:818][379]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_3_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-18.27.29
+[2018.06.17-11.27.29:818][379]LogWorld: Bringing up level for play took: 0.000601
+[2018.06.17-11.27.29:818][379]LogLoad: Took 0.021999 seconds to LoadMap(/Game/StarterContent/Maps/UEDPIE_1_Minimal_Default)
+[2018.06.17-11.27.29:829][380]LogNet: Client netspeed is 10000
+[2018.06.17-11.27.29:829][380]LogNet: Join request: /Game/StarterContent/Maps/Minimal_Default?SplitscreenCount=1
+[2018.06.17-11.27.29:831][380]LogNet: Join succeeded: 272
+[2018.06.17-11.27.29:831][380]LogNet: Client netspeed is 10000
+[2018.06.17-11.27.29:831][380]LogNet: Join request: /Game/StarterContent/Maps/Minimal_Default?SplitscreenCount=1
+[2018.06.17-11.27.29:833][380]LogNet: Join succeeded: 273
+[2018.06.17-11.28.03:972][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.28.03:985][463]LogSlate: Window 'firstshooter Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.17-11.28.04:047][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-11.28.04:063][463]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62336, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: BP_playerController_C_1, Owner: BP_playerController_C_1, UniqueId: INVALID
+[2018.06.17-11.28.04:063][463]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62336, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: BP_playerController_C_1, Owner: BP_playerController_C_1, UniqueId: INVALID, Channels: 11, Time: 2018.06.17-11.28.04
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62336, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: BP_playerController_C_1, Owner: BP_playerController_C_1, UniqueId: INVALID
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62335, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.28.04:064][463]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62335, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID, Channels: 11, Time: 2018.06.17-11.28.04
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62335, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_24, IsServer: YES, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_26, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.28.04:064][463]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_26, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID, Channels: 11, Time: 2018.06.17-11.28.04
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_26, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.28.04:064][463]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID, Channels: 11, Time: 2018.06.17-11.28.04
+[2018.06.17-11.28.04:064][463]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_25, IsServer: NO, PC: BP_playerController_C_0, Owner: BP_playerController_C_0, UniqueId: INVALID
+[2018.06.17-11.28.04:067][463]LogExit: GameNetDriver None shut down
+[2018.06.17-11.28.04:067][463]LogExit: GameNetDriver None shut down
+[2018.06.17-11.28.04:067][463]LogExit: GameNetDriver None shut down
+[2018.06.17-11.28.04:587][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-11.28.59:844][370]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.28.59:851][370]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a4752f060, Size=32
+[2018.06.17-11.28.59:851][370]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a45ed5040, Size=32, BP_weaponManager_C_2 Function /Engine/Transient.REINST_BP_weaponManager_C_135:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.28.59:853][370]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a45ed4660, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.29.00:908][474]LogSavePackage: Save=10.31ms
+[2018.06.17-11.29.00:908][474]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManagerC63B80784CAAADA770B3A984F323F49B.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.29.00:909][474]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.31.51:101][509]LogSavePackage: Save=9.89ms
+[2018.06.17-11.31.51:101][509]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager0BC38F7A4F2292AD5914C6AFDBC18F4E.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.31.51:102][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.33.00:986][466]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.33.00:988][466]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.33.54:919][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-11.37.26:546][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/weapons/BP_weapon" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset" SILENT=true
+[2018.06.17-11.37.26:555][822]LogSavePackage: Save=4.89ms
+[2018.06.17-11.37.26:555][822]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weapon02134F5A48A002C6F9914DA37E1495AF.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset'
+[2018.06.17-11.37.26:556][822]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset
+[2018.06.17-11.37.26:962][869]BlueprintLog: New page: Compile BP_weapon
+[2018.06.17-11.37.27:164][869]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a45ed5040, Size=32
+[2018.06.17-11.37.28:398][990]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-11.37.28:400][990]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-11.39.16:041][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.017
+[2018.06.17-11.39.16:043][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/components/player/BP_weaponManager] ([1] browsable assets)...
+[2018.06.17-11.39.16:043][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/components/player/BP_weaponManager]
+[2018.06.17-11.39.16:057][995]LogSavePackage: Save=9.67ms
+[2018.06.17-11.39.16:057][995]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager_Auto52CA52B7D41E2BE5620400FA68E6003AA.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto5.uasset'
+[2018.06.17-11.39.16:057][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto5.uasset
+[2018.06.17-11.39.16:057][995]LogFileHelpers: Auto-saving content packages took 0.016
+[2018.06.17-11.40.05:190][388]LogSavePackage: Save=10.19ms
+[2018.06.17-11.40.05:190][388]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager0C5AABE3487432854431B88BEBD5429A.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.40.05:191][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.40.05:684][446]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.40.05:692][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a45ed4660, Size=32
+[2018.06.17-11.40.05:692][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000002299c86c880, Size=32, BP_weaponManager_C_3 Function /Engine/Transient.REINST_BP_weaponManager_C_161:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.40.05:694][446]LogUObjectGlobals: Created PersistentFrame Addr=0x000002299c86ef00, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.40.07:213][611]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.40.07:215][611]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.40.22:002][179]LogSavePackage: Save=10.60ms
+[2018.06.17-11.40.22:002][179]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager721C9201464C07A1C0E3CAB6C9BB91F3.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.40.22:002][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.40.22:368][218]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.40.22:376][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002299c86ef00, Size=32
+[2018.06.17-11.40.22:376][218]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a52312140, Size=32, BP_weaponManager_C_4 Function /Engine/Transient.REINST_BP_weaponManager_C_165:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.40.22:378][218]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a09a7d740, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.40.22:488][218]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002299c86c880, Size=32
+[2018.06.17-11.40.23:661][341]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.40.23:663][341]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.40.40:088][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/data/Enums/E_WeaponType" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset" SILENT=true
+[2018.06.17-11.40.40:094][281]LogSavePackage: Save=0.98ms
+[2018.06.17-11.40.40:094][281]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/E_WeaponType429410DA471E3364DF8B3585B3343FDF.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset'
+[2018.06.17-11.40.40:095][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/data/Enums/E_WeaponType.uasset
+[2018.06.17-11.40.47:104][105]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.40.47:106][105]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.44.24:769][585]LogSlate: Window 'BP_weaponManager*' being destroyed
+[2018.06.17-11.44.24:772][585]LogSlate: Window 'BP_weaponManager*' being destroyed
+[2018.06.17-11.44.51:048][563]LogClass: Warning: In asset 'None', there is an enum property of type 'E_WeaponType' with an invalid value of ''
+[2018.06.17-11.45.51:830][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/weapons/BP_weapon" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset" SILENT=true
+[2018.06.17-11.45.51:840][366]LogSavePackage: Save=5.02ms
+[2018.06.17-11.45.51:840][366]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weapon376947EB4A130C9D7AC2BFB9BC6B4936.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset'
+[2018.06.17-11.45.51:841][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset
+[2018.06.17-11.45.52:273][413]BlueprintLog: New page: Compile BP_weapon
+[2018.06.17-11.45.52:477][413]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a52312140, Size=32
+[2018.06.17-11.45.53:612][528]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-11.45.53:615][528]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-11.47.37:601][197]LogSavePackage: Save=10.06ms
+[2018.06.17-11.47.37:601][197]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager13EEA6E4415EF62C32E935BA8CABDC3A.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.47.37:602][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.47.37:984][241]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.47.37:991][241]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a09a7d740, Size=32
+[2018.06.17-11.47.37:991][241]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a55c0fce0, Size=32, BP_weaponManager_C_5 Function /Engine/Transient.REINST_BP_weaponManager_C_175:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.47.37:993][241]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a55c0cc80, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.47.39:120][356]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.47.39:123][356]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.49.13:606][421]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-11.49.13:608][421]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-11.49.29:749][105]LogSlate: Window 'BP_playerCharacter' being destroyed
+[2018.06.17-11.49.29:751][105]LogSlate: Window 'BP_playerCharacter' being destroyed
+[2018.06.17-11.50.32:393][ 74]LogSavePackage: Save=10.05ms
+[2018.06.17-11.50.32:393][ 74]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager2C971A2F432577E36D84C799D3C31E57.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-11.50.32:394][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-11.50.32:991][142]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-11.50.32:998][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a55c0cc80, Size=32
+[2018.06.17-11.50.32:998][142]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a04143f60, Size=32, BP_weaponManager_C_6 Function /Engine/Transient.REINST_BP_weaponManager_C_179:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.50.33:000][142]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a041422e0, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-11.50.33:110][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a55c0fce0, Size=32
+[2018.06.17-11.53.31:944][553]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.53.31:946][553]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.53.40:385][526]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.53.40:388][526]LogSlate: Window 'E_WeaponType' being destroyed
+[2018.06.17-11.59.50:075][ 22]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-11.59.50:078][ 22]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-12.01.00:356][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/weapons/BP_weapon" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset" SILENT=true
+[2018.06.17-12.01.00:366][883]LogSavePackage: Save=5.10ms
+[2018.06.17-12.01.00:366][883]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weapon803EF74F42E05A24C4AD9AAC9CE7B78C.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset'
+[2018.06.17-12.01.00:367][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset
+[2018.06.17-12.01.00:891][940]BlueprintLog: New page: Compile BP_weapon
+[2018.06.17-12.01.01:090][940]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a04143f60, Size=32
+[2018.06.17-12.01.02:394][ 72]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-12.01.02:396][ 72]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-12.02.18:403][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.020
+[2018.06.17-12.02.18:405][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/components/player/BP_weaponManager] ([1] browsable assets)...
+[2018.06.17-12.02.18:405][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/components/player/BP_weaponManager]
+[2018.06.17-12.02.18:421][534]LogSavePackage: Save=11.72ms
+[2018.06.17-12.02.18:422][534]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager_Auto622912BA54AC2C6D9A5FD5B94EFDE75AF.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto6.uasset'
+[2018.06.17-12.02.18:422][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto6.uasset
+[2018.06.17-12.02.18:422][534]LogFileHelpers: Auto-saving content packages took 0.019
+[2018.06.17-12.09.06:791][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/weapons/BP_weapon" FILE="../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset" SILENT=true
+[2018.06.17-12.09.06:801][904]LogSavePackage: Save=5.15ms
+[2018.06.17-12.09.06:801][904]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponDFFCB9CE4BFD274037C34080D82A0308.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset'
+[2018.06.17-12.09.06:803][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/weapons/BP_weapon.uasset
+[2018.06.17-12.09.07:423][973]BlueprintLog: New page: Compile BP_weapon
+[2018.06.17-12.09.09:403][154]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-12.09.09:405][154]LogSlate: Window 'BP_weapon' being destroyed
+[2018.06.17-12.12.20:234][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.020
+[2018.06.17-12.12.20:235][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprints/components/player/BP_weaponManager] ([1] browsable assets)...
+[2018.06.17-12.12.20:235][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/components/player/BP_weaponManager]
+[2018.06.17-12.12.20:252][997]LogSavePackage: Save=11.30ms
+[2018.06.17-12.12.20:252][997]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManager_Auto7C28CE81B456AFDDB134E31B72A26FA80.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto7.uasset'
+[2018.06.17-12.12.20:253][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Autosaves/Game/blueprints/components/player/BP_weaponManager_Auto7.uasset
+[2018.06.17-12.12.20:253][997]LogFileHelpers: Auto-saving content packages took 0.018
+[2018.06.17-12.34.15:610][943]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.17-12.34.15:610][943]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.17-12.34.17:284][109]BlueprintLog: New page: Compile BP_weaponManager
+[2018.06.17-12.34.17:292][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a041422e0, Size=32
+[2018.06.17-12.34.17:292][109]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a45182840, Size=32, BP_weaponManager_C_7 Function /Engine/Transient.REINST_BP_weaponManager_C_201:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-12.34.17:294][109]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022a45181500, Size=32, Default__BP_weaponManager_C Function /Game/blueprints/components/player/BP_weaponManager.BP_weaponManager_C:ExecuteUbergraph_BP_weaponManager
+[2018.06.17-12.34.18:044][168]LogSavePackage: Save=11.03ms
+[2018.06.17-12.34.18:044][168]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/BP_weaponManagerC4ECA06E4DE5D2F6F5FD368D7443CFCC.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset'
+[2018.06.17-12.34.18:045][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/blueprints/components/player/BP_weaponManager.uasset
+[2018.06.17-12.34.21:320][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a45182840, Size=32
+[2018.06.17-12.34.22:404][616]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-12.34.22:406][616]LogSlate: Window 'BP_weaponManager' being destroyed
+[2018.06.17-12.34.24:423][841]LogSlate: Window 'firstshooter - Unreal Editor' being destroyed
+[2018.06.17-12.34.24:424][841]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.17-12.34.24:627][842]Cmd: QUIT_EDITOR
+[2018.06.17-12.34.25:628][842]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.17-12.34.25:628][842]LogExit: Preparing to exit.
+[2018.06.17-12.34.26:066][842]LogDirectoryWatcher: A directory notification for 'C:/Users/dc/Documents/Unreal Projects/firstshooter/Content/' was aborted.
+[2018.06.17-12.34.26:095][842]LogExit: Editor shut down
+[2018.06.17-12.34.26:097][842]LogExit: Transaction tracking system shut down
+[2018.06.17-12.34.26:098][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229c119e390, Size=72
+[2018.06.17-12.34.26:101][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a358d4370, Size=44
+[2018.06.17-12.34.26:101][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a358d4760, Size=44
+[2018.06.17-12.34.26:101][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002299ee31b20, Size=72
+[2018.06.17-12.34.26:102][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a34d3f860, Size=32
+[2018.06.17-12.34.26:102][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229cd3ac468, Size=4
+[2018.06.17-12.34.26:102][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022a45181500, Size=32
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.17-12.34.26:272][842]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.17-12.34.26:359][842]LogExit: Object subsystem successfully closed.
+[2018.06.17-12.34.26:370][842]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.17-12.34.26:373][842]LogD3D11RHI: Shutdown
+[2018.06.17-12.34.26:373][842]LogD3D11RHI: CleanupD3DDevice
+[2018.06.17-12.34.26:376][842]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.17-12.34.26:392][842]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.06.17-12.34.26:392][842]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.17-12.34.26:392][842]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.06.17-12.34.26:392][842]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.17-12.34.26:392][842]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.06.17-12.34.26:392][842]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.06.17-12.34.26:392][842]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.06.17-12.34.26:392][842]LogDirectoryWatcher: A directory notification for 'C:/Users/dc/Documents/Unreal Projects/firstshooter/Content/Collections/' was aborted.
+[2018.06.17-12.34.26:393][842]LogDirectoryWatcher: A directory notification for 'C:/Users/dc/Documents/Unreal Projects/firstshooter/Content/Developers/dc/Collections/' was aborted.
+[2018.06.17-12.34.26:393][842]LogDirectoryWatcher: A directory notification for 'C:/Users/dc/Documents/Unreal Projects/firstshooter/Saved/Collections/' was aborted.
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.17-12.34.26:393][842]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.17-12.34.26:394][842]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.17-12.34.27:032][842]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.17-12.34.27:033][842]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.17-12.34.27:084][842]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.17-12.34.27:084][842]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.17-12.34.27:084][842]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.17-12.34.27:084][842]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.17-12.34.27:084][842]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.17-12.34.27:084][842]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.17-12.34.27:085][842]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.17-12.34.27:085][842]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.17-12.34.27:085][842]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.17-12.34.27:085][842]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.17-12.34.27:090][842]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.17-12.34.27:090][842]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.17-12.34.27:091][842]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.17-12.34.27:091][842]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.17-12.34.27:091][842]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.17-12.34.27:092][842]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.17-12.34.27:233][842]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.17-12.34.27:235][842]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.17-12.34.27:235][842]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.17-12.34.27:235][842]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.17-12.34.27:235][842]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.17-12.34.27:235][842]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.17-12.34.27:236][842]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.17-12.34.27:337][842]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.17-12.34.27:437][842]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.17-12.34.27:437][842]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.17-12.34.27:437][842]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.17-12.34.27:437][842]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.17-12.34.27:437][842]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.17-12.34.27:437][842]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.17-12.34.27:438][842]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.17-12.34.27:438][842]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.17-12.34.27:438][842]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.17-12.34.27:438][842]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.17-12.34.27:438][842]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.17-12.34.27:439][842]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.17-12.34.27:439][842]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.17-12.34.27:439][842]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.17-12.34.27:439][842]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.17-12.34.28:088][842]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.17-12.34.28:088][842]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.17-12.34.28:088][842]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.17-12.34.28:089][842]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.17-12.34.28:094][842]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.17-12.34.28:095][842]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.17-12.34.28:096][842]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.17-12.34.28:096][842]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.17-12.34.28:097][842]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.17-12.34.28:155][842]LogDerivedDataCache: Shutdown
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.17-12.34.28:155][842]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.17-12.34.28:156][842]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.17-12.34.28:156][842]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.17-12.34.28:156][842]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3AE3473E-496E-3554-52D9-29AD47522CE6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=472b2ea84bff1236c4d3c2a1dda17360%7Cddd8ef4f54de490f893959d436dc258a%7Ca11c4633-5fa7-483a-80c2-e360e798c9e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.17-12.34.28:166][842]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.17-12.34.28:167][842]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.17-12.34.28:167][842]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.17-12.34.28:167][842]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.17-12.34.28:168][842]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.17-12.34.28:168][842]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.17-12.34.28:168][842]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.17-12.34.28:168][842]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.17-12.34.28:169][842]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.17-12.34.28:172][842]LogExit: Exiting.
+[2018.06.17-12.34.28:182][842]Log file closed, 06/17/18 19:34:28
