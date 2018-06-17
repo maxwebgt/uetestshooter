@@ -876,3 +876,36 @@ LogInit: Object subsystem initialized
 [2018.06.17-04.07.01:818][945]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_DefaultDAA86F4B4C57EC73A6702EB5912DA3A3.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap'
 [2018.06.17-04.07.01:819][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap
 [2018.06.17-04.07.01:837][945]LogFileHelpers: Saving map 'Minimal_Default' took 0.174
+[2018.06.17-04.09.24:248][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-04.09.40:247][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-04.09.47:606][444]Cmd: MODE GRID=0
+[2018.06.17-04.09.48:683][569]Cmd: MODE GRID=1
+[2018.06.17-04.09.51:092][854]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.17-04.09.51:104][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-04.09.51:105][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-04.09.51:105][854]PIE: New page: PIE session: Minimal_Default (17 июня 2018 г., 18:09:51)
+[2018.06.17-04.09.51:105][854]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.06.17-04.09.51:107][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2018.06.17-04.09.51:108][854]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-04.09.51:108][854]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.06.17-04.09.51:108][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003087s)
+[2018.06.17-04.09.51:123][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002675b9eb848, Size=4
+[2018.06.17-04.09.51:124][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002679980c478, Size=4
+[2018.06.17-04.09.51:124][854]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002675bbcb260, Size=8
+[2018.06.17-04.09.51:129][854]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-04.09.51:133][854]LogInit: FAudioDevice initialized.
+[2018.06.17-04.09.51:163][854]LogLoad: Game class is 'BP_baseGameMode_C'
+[2018.06.17-04.09.51:164][854]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.06.17-11.09.51
+[2018.06.17-04.09.51:164][854]LogWorld: Bringing up level for play took: 0.000667
+[2018.06.17-04.09.51:166][854]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,672
+[2018.06.17-04.09.51:166][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-04.09.58:575][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-04.09.58:609][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.06.17-04.09.59:700][866]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.17-04.10.05:181][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-04.10.05:393][511]LogSavePackage: Save=92.08ms
+[2018.06.17-04.10.05:394][511]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_DefaultDF033272467874F29ABCFE9A0E0FE79D.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.06.17-04.10.05:395][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.06.17-04.10.05:456][511]LogSavePackage: Save=38.40ms
+[2018.06.17-04.10.05:456][511]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_Default_BuiltDataFA5AF3FD4189BDA98E61ADBCCA3EDFCD.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.06.17-04.10.05:457][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
