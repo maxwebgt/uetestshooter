@@ -687,3 +687,42 @@ LogInit: Object subsystem initialized
 [2018.06.17-03.07.16:570][740]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_DefaultCB2404934962E383CA3DED8017214A5C.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap'
 [2018.06.17-03.07.16:572][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap
 [2018.06.17-03.07.16:579][740]LogFileHelpers: Saving map 'Minimal_Default' took 0.120
+[2018.06.17-03.14.36:026][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.15.11:465][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.15.22:102][984]LogSlate: Window 'Details' being destroyed
+[2018.06.17-03.15.54:771][826]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.17-03.16.31:631][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.16.48:179][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.17-03.16.54:699][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.17.20:110][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-03.17.24:066][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-03.17.24:188][329]LogSavePackage: Save=57.68ms
+[2018.06.17-03.17.24:188][329]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_Default356BB74A40821EBFD3A24AA283933BF9.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.06.17-03.17.24:190][329]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.06.17-03.17.24:196][329]LogFileHelpers: Saving map 'Minimal_Default' took 0.126
+[2018.06.17-03.18.43:351][136]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.06.17-03.18.44:994][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.18.55:770][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.19.02:131][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.17-03.19.05:205][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.19.28:285][ 10]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.06.17-03.19.30:313][245]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.17-03.20.20:162][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.20.45:364][706]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.06.17-03.21.39:118][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.22.36:776][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.22.45:148][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.17-03.22.48:029][820]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.06.17-03.23.09:272][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.23.21:375][732]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.06.17-03.23.24:043][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.24.19:742][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.17-03.24.30:109][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-03.24.30:139][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-03.24.56:719][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.17-03.24.56:820][829]LogSavePackage: Save=81.48ms
+[2018.06.17-03.24.56:820][829]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_Default0B32B7BF487CB990055DFB93E7C3EE3D.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.06.17-03.24.56:821][829]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.06.17-03.24.56:876][829]LogSavePackage: Save=42.25ms
+[2018.06.17-03.24.56:876][829]LogSavePackage: Moving '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Saved/Minimal_Default_BuiltData0F4631CE4D94A073C7D5D18A53B7BD83.tmp' to '../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.06.17-03.24.56:877][829]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/dc/Documents/Unreal Projects/firstshooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
